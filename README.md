@@ -3,6 +3,7 @@
 #### Project initiated: 02-14-2021
 #### By Sofia Acosta and Garret Brown 
 ## Project Description
+Practice creating objects in JavaScript and building out business logic with specs. Specs should outine the intended behaviors for each application and should be included in projects README. 
 
 ## Specs
  
@@ -14,9 +15,7 @@ Expect: (Places).toEqual(location, landmark, time, notes)
 ```
  
 ## Technologies Used
-* HTML
 * Javascript
-* CSS
 * JQuery
 ## Set up / Installation requirements
 * Download a .zip copy of this repository:by clicking the green "code" button. 
@@ -37,4 +36,4 @@ OR
 * [MIT](https://choosealicense.com/licenses/mit)
 * Copyright 2021 Sofia Acosta
 ## Contact
-Sofia Acosta sofiaacostarascon@gmail.com
+Sofia Acosta sofiaacostarascon@gmail.com and Garret Brown garrettpaulbrown@gmail.com
